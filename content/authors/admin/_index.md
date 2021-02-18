@@ -48,7 +48,7 @@ social:
   link: "https://github.com/yubinwang11/"
 - icon: linkedin
   icon_pack: fab
-  link: "linkedin.com/in/yubin-wang-518015205"
+  link: "https://www.linkedin.com/in/yubin-wang-518015205/"
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
