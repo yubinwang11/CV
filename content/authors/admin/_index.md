@@ -36,7 +36,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#contact'
+  link: '/#fishcakewang11@gmail.com'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GeorgeCushen
@@ -45,10 +45,10 @@ social:
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yubinwang11/
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: linkedin.com/in/yubin-wang-518015205
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
