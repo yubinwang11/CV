@@ -36,13 +36,13 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '/#fishcakewang11@gmail.com'
+  link:"mailto:fishcakewang11@gmail.com"
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://github.com/yubinwang11/
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://github.com/yubinwang11/
 - icon: github
   icon_pack: fab
   link: https://github.com/yubinwang11/
@@ -64,6 +64,6 @@ email: ""
 highlight_name: false
 ---
 
-Yubin Wang is a undergraduate student and research assistant in Autonomous Networks and Control Laboratory(ANCL). His research interests include multi-robot systems, mobile robots, cooperative control, multi-robot coordination. He participates in the Unmanned Aerial Vehicle group, which develops autonomy robots, control of robots motion, and mobile robots networks.
+Yubin Wang is a undergraduate student and research assistant in Autonomous Networks and Control Laboratory (ANCL). His research interests include multi-robot systems, mobile robots, cooperative control, multi-robot coordination. He participates in the Unmanned Aerial Vehicle group, which develops autonomy robots, control of robots motion, and mobile robots networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
