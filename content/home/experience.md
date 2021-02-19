@@ -30,7 +30,7 @@ experience:
     date_end: ''
     description: I have proposed a control framework of AI Robot to achive state transmission. Now my team is preparing for RoboMaster AI challenge match.
         
-  - title: Undergraduate Student
+  - title: Research Assistant
     company: Autonomous Networks and Control Laboratory
     company_url: ''
     location: Qinhuangdao
