@@ -22,24 +22,19 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: ICRA AI Challenge Team Leader
+    company: Sudo RoboMaster Team
     company_url: ''
-    location: California
-    date_start: '2017-01-01'
+    location: Qinhuangdao
+    date_start: '2020-11-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    description: I have proposed a control framework of AI Robot to achive state transmission. Now my team is preparing for RoboMaster AI challenge match.
         
-        * Analysing
-        * Modelling
-        * Deploying
-        
-  - title: Professor
-    company: University X
+  - title: Undergraduate Student
+    company: Autonomous Networks and Control Laboratory
     company_url: ''
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2016-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    location: Qinhuangdao
+    date_start: '2018-10-01'
+    date_end: ''
+    description: My research interests are multi-robot systems, cooperative control, machine learning, motion planning.
 ---
